@@ -22,15 +22,11 @@ public class Ejercicio01 {
         int variable3 = 3;
         int variable4 = 4;
         int variable5 = 64;
-       
 
         System.out.println("-------Solución a problema------------------");
-        // Math.sqrt me permite obtener la raíz cuadrada de un número
         
         double resultado = (variable1 + variable2 * variable3 ) / 
                 variable4 + Math.sqrt(variable5);
-        
-        
         
         System.out.println(resultado);
 
