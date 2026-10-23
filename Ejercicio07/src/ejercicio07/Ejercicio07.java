@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package ejercicio7;
+package ejercicio07;
 
 /**
  *
  * @author HP
  */
-public class Ejercicio7 {
+public class Ejercicio07 {
 
     /**
      * @param args the command line arguments
